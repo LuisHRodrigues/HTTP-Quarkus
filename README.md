@@ -26,7 +26,7 @@ http-quarkus/
 
 ```bash
 # Clonar / entrar na pasta do projeto
-https://github.com/LuisHRodrigues/HTTP-Quarkus.git
+git clone https://github.com/LuisHRodrigues/HTTP-Quarkus.git
 cd http-quarkus
 
 # Iniciar em modo dev (hot reload automático)
